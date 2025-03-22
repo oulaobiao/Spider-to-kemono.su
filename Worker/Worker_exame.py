@@ -44,12 +44,3 @@ class worker_exa(QThread):
 
         except Exception:
             self.data_fetched.emit({})
-
-
-
-
-
-"Mizuki & Suiko (One-Punch Man)- LQ jpg"
-
-"IMG_6464.jpeg"
-"/05/61/0561e009abd59ba2b0c300a55a1cc6e875609e2604df5eeb29f51e55d3c7974e.jpg"

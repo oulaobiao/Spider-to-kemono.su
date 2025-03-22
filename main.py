@@ -146,24 +146,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-# https://kemono.su/api/v1/patreon/user/7124717
-# https://kemono.su/patreon/user/7124717
-
-
-# https://n4.kemono.su
-# /data
-# /05/61/0561e009abd59ba2b0c300a55a1cc6e875609e2604df5eeb29f51e55d3c7974e.jpg
-# ?f=
-# IMG_6464.jpeg
-# "server"
-# "https://n4.kemono.su"
-#
-# "name"
-# "IMG_6464.jpeg"
-#
-# "path"
-# "/05/61/0561e009abd59ba2b0c300a55a1cc6e875609e2604df5eeb29f51e55d3c7974e.jpg"
-
-'''
-pyinstaller --onefile --hidden-import=urllib3 --hidden-import=chardet --hidden-import=psutil._pswindows --hidden-import=PyQt6.QtCore --hidden-import=PyQt6.QtGui --hidden-import=PyQt6.QtWidgets --hidden-import=psutil man.py
-'''
